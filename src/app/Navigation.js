@@ -8,7 +8,7 @@ class Navigation extends Component {
                 <a className="navbar-brand" href="#">
                     <img src={img} width="30" height="30" className="d-inline-block align-top"
                         alt="" />
-                    Data Personal
+                    Data Personals
                 </a>
             </nav>
         );
