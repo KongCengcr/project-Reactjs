@@ -1,0 +1,20 @@
+{
+    "personals": [
+        {
+            "name": "Mark", 
+            "lastname": "Sachez",
+            "email": "mark@hotmail.com",
+            "country": "Venezuela",
+            "address": "Nueva Esparta, Porlamar",
+            "sector": "Web Developer"
+        },
+        {
+            "name": "Alex",
+            "lastname": "Bryan",
+            "email": "alex@hotmail.com",
+            "country": "Canada",
+            "address": "Chezka",
+            "sector": "Software Developer"
+        }
+    ]
+}
